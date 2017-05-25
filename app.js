@@ -34,8 +34,6 @@ document.querySelector('.btn-roll').addEventListener('click', function() {
     }
   }
 
-
-
 });
 
 document.querySelector('.btn-hold').addEventListener('click', function() {
@@ -57,8 +55,6 @@ document.querySelector('.btn-hold').addEventListener('click', function() {
       nextPlayer();
     }
   }
-
-
 
 });
 
